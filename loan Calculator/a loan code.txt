@@ -1,0 +1,7 @@
+loan code:
+double loan/ Amount= 20000;
+double intrestRate= .03;
+int paybackperiod= 60; //starts 2022
+double intrestper month= loanAmount*intrestRate;
+system.out.printin(intrest per month" + intrest per month);
+double total Invest= intrestpermonth*payback period;
